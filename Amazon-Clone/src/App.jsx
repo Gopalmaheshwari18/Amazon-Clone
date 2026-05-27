@@ -1,9 +1,9 @@
 import { useState } from "react";
-import Navbar from "./components/Navbar";
-import HeroBanner from "./components/HeroBanner";
-import ProductCard from "./components/ProductCard";
-import CartDrawer from "./components/CartDrawer";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar";
+import HeroBanner from "./Components/HeroBanner";
+import ProductCard from "./Components/ProductCard";
+import CartDrawer from "./Components/CartDrawer";
+import Footer from "./Components/Footer";
 import products from "./data/product";
 
 const categories = ["All", "Electronics", "Mobiles", "Fashion", "Kitchen", "Sports", "Books", "Beauty"];
