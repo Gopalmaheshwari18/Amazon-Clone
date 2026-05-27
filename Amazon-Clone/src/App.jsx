@@ -1,8 +1,8 @@
 import { useState } from "react";
 import Navbar from "./Components/Navbar";
-import HeroBanner from "./Components/HeroBanner";
-import ProductCard from "./Components/ProductCard";
-import CartDrawer from "./Components/CartDrawer";
+import HeroBanner from "./Components/Herobanner";
+import ProductCard from "./Components/productCard";
+import CartDrawer from "./Components/Cartdrawer";
 import Footer from "./Components/Footer";
 import products from "./data/product";
 
